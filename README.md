@@ -2,7 +2,7 @@
 
 > Course Code: CS5423.Q11.CTTT, using SQL Server Management Studio 21
 
-
+---
 
 ## Repository Structure
 
@@ -39,4 +39,8 @@ Database-Principles/
 └── README.md
 ```
 
+## Notes
 
+* Built with **SQL Server Management Studio 21**.
+* Some SQL queries may be written in different ways but give the same result.
+* This repository is for learning and practice
