@@ -1,0 +1,42 @@
+# Database Principles
+
+> Course Code: CS5423.Q11.CTTT, using SQL Server Management Studio 21
+
+
+
+## Repository Structure
+
+```text
+Database-Principles/
+│
+├── Exercises/
+│   ├── Exercise-01/
+│   │   ├── Problem/
+│   │   └── Solution/
+│   ├── Exercise-02/
+│   │   ├── Problem/
+│   │   └── Solution/
+│   ├── Exercise-03/
+│   │   ├── Problem/
+│   │   └── Solution/
+│   └── Exercise-04/
+│       ├── Problem/
+│       └── Solution/
+│
+├── Labs/
+│   ├── Lab1/
+│   ├── Lab2/
+│   ├── Lab3/
+│   ├── Lab4/
+│   └── Lab5/
+│
+├── Lectures/
+│   ├── CSDL Bai 1.1 - Overview of DB Systems - EN
+│   ├── CSDL Bai 2 - Relational Data Model - EN
+│   ├── ...
+│   └── CSDL Bai 6 - Functional Dependencies and Normal Forms - EN
+│
+└── README.md
+```
+
+
