@@ -7,7 +7,7 @@
 ## Repository Structure
 
 ```text
-Database-Principles/
+database-management-system/
 │
 ├── Exercises/
 │   ├── Exercise-01/
