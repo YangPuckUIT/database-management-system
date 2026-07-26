@@ -1,4 +1,4 @@
-# Database Principles
+# Database Management System
 
 > Course Code: CS5423.Q11.CTTT, using SQL Server Management Studio 21
 
